@@ -1,0 +1,11 @@
+Règle Tic Tac Toe 	
+Règles du jeu :
+L'objectif est de réussir à aligner trois ronds ou trois croix dans une grille de 3 sur 3. Les joueurs choisissent un des éléments, et jouent en alternance. La partie s'arrête lorsque l'un des joueurs a réussi à aligner trois élé- ments, ou lorsque les 9 cases ont été remplies.
+Dans le film WarGames (1983), le jeu de Tic-Tac-Toe est utilisé pour apprendre à un ordinateur pris de folie destructrice qu'il existe des jeux auxquels on ne peut pas toujours gagner.
+Dans le film Top secret ! (1984), le héros Nick Rivers se retrouve dans une maison abritant des résistants et prise d'assaut par des soldats. Caché près d'une vitre à 9 carreaux, il tire à travers, faisant des marques rondes, tandis que les balles ennemies traversent les carreaux en laissant une marque en forme de croix. Ayant réussi à aligner 3 ronds, Nick se replie, satisfait.
+Dans le film Mais qui est Harry Crumb ? (1989), le détective Harry Crumb se déguise pour aller enquêter sur un enlèvement qui a eu lieu dans un salon de beauté. Alors qu'il discute avec l'employée qui s'occupait de la victime au moment de l'enlèvement, tous deux jouent au tic-tac-toe sur le corps recouvert de boue d'une cliente.
+L'émission L'Académie des neuf diffusée sur Antenne 2 à partir de 1982 réunissait neuf invités sur trois étages, deux candidats jouant au Tic-Tac-Toe en faisant poser des questions aux invités par l'animateur.
+Dans la série animée Les Simpson, Apu Nahasapeemapetilon possède un doctorat en informatique obtenu grâce à sa création : le premier jeu de Tic-tac-toe avec intelligence artificielle. On peut également voir Bart et Lisa dans la saison 24 regardant un film sur une bataille entre les O et les X le film s'intitule d'ailleurs Tic–Tac–Toe: X v. O
+Le tic-tac-toe, aussi appelé « morpion » (par analogie au jeu de morpion) et « oxo » en Belgique, est un jeu de réflexion se pratiquant à deux joueurs au tour par tour dont le but est de créer le premier un alignement. Le jeu se joue généralement avec papier et crayon.
+
+Languages utilisés : js,html,css
